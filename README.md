@@ -1,9 +1,14 @@
-# Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="hi"> 
+# Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="hi">
 
 ## About me
 
+I am studying at the Lviv Polytechnic National University, majoring in Computer Science, and at the OKTEN SCHOOL on the
+MEGA FullStack course. So I am a full-stack web developer. I am optimistic, friendly, and communicative, which allows me
+to get along well with clients and colleagues. I am a speedy learner, diligent, focused, and goal-oriented, so I will
+complete all tasks assigned to me on time. I also study Korean in my spare time.
 
 ## Socials
+
 <div style="display: flex; justify-content: space-evenly; align-items: center; height: 30px">
 <a href="https://www.instagram.com/_marta.ri_">
   <img alt="Instagram" src="https://cdn2.iconfinder.com/data/icons/social-icons-33/128/Instagram-128.png" width="23px"/>
@@ -57,12 +62,12 @@
 
 ## Languages and Tools
 
-<code><img height="20" src="icons/c.png" alt="c"/></code>
+<code><img height="20" src="icons/C.png" alt="c"/></code>
 <code><img height="20" src="https://cdn4.iconfinder.com/data/icons/logos-brands-in-colors/404/c_logo-128.png" alt="c++"/></code>
 <code><img height="20" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/181_Java_logo_logos-128.png" alt="java"/></code>
-<code><img height="20" src="icons/js.png" alt="js"/></code>
+<code><img height="20" src="icons/JS.png" alt="js"/></code>
 <code><img height="20" src="icons/NodeJS.png" alt="NodeJS"/></code>
-<code><img height="20" src="icons/ts.png" alt="ts"/></code>
+<code><img height="20" src="icons/TS.png" alt="ts"/></code>
 <code><img height="20" src="icons/React.png" alt="React"/></code>
 <code><img height="20" src="icons/Redux.png" alt="Redux"/></code>
 <code><img height="20" src="icons/MongoDB.png" alt="MongoDB"/></code>
@@ -71,10 +76,11 @@
 <code><img height="20" src="icons/yarn.png" alt="yarn"/></code>
 <code><img height="20" src="https://cdn3.iconfinder.com/data/icons/social-media-2169/24/social_media_social_media_logo_git-128.png" alt="Git"/></code>
 <code><img height="20" src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/71-github-128.png" alt="GitHub"/></code>
-<code><img height="20" src="icons/Intellij.png" alt="IntelliJ"/></code>
+<code><img height="20" src="icons/IntelliJ.png" alt="IntelliJ"/></code>
 <code><img height="20" src="icons/VisualStudio.png" alt="VisualStudio"/></code>
 
 ## GitHub stats
+
 <div align="center" style="display: flex; justify-content: space-evenly; align-content: center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=martari03&show_icons=true&locale=en&layout=compact" alt="ovi" />
 </div>
