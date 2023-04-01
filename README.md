@@ -1,6 +1,6 @@
 # Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="hi">
 
-I am studying at the Lviv Polytechnic National University, majoring in Computer Science, and at the OKTEN SCHOOL on the
+My name is Marta Rishniak. I am studying at the Lviv Polytechnic National University, majoring in Computer Science, and at the OKTEN SCHOOL on the
 MEGA FullStack course. So I am a full-stack web developer. I am optimistic, friendly, and communicative, which allows me
 to get along well with clients and colleagues. I am a speedy learner, diligent, focused, and goal-oriented, so I will
 complete all tasks assigned to me on time. I also study Korean in my spare time.
