@@ -37,11 +37,11 @@ complete all tasks assigned to me on time. I also study Korean in my spare time.
 <a href="https://api.whatsapp.com/send?phone=380971604558">
 <img alt="WhatsApp" src="https://cdn3.iconfinder.com/data/icons/2018-social-media-logotypes/1000/2018_social_media_popular_app_logo-whatsapp-128.png" width="23px"/>
 </a>
-<a href="https://discordapp.com/users/764082631708246046">
-<img alt="Discord" src="https://cdn3.iconfinder.com/data/icons/social-network-flat-3/100/Discord-128.png" width="23px"/>
-</a>
 <a href="#">
   <img alt="Viber" src="https://cdn3.iconfinder.com/data/icons/social-media-2169/24/social_media_social_media_logo_viber-128.png" width="23px"/>
+</a>
+<a href="https://discordapp.com/users/764082631708246046">
+<img alt="Discord" src="https://cdn3.iconfinder.com/data/icons/social-network-flat-3/100/Discord-128.png" width="23px"/>
 </a>
 <a href="https://www.tiktok.com/@martarishniak">
 <img alt="TikTok" src="https://cdn4.iconfinder.com/data/icons/social-media-flat-7/64/Social-media_Tiktok-128.png" width="23px"/>
