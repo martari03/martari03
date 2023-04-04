@@ -81,10 +81,9 @@ complete all tasks assigned to me on time. I also study Korean in my spare time.
 
 ## GitHub stats
 
-<div align="center" style="display: flex; justify-content: space-evenly; align-content: center; column-gap: 3vw">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=martari03&show_icons=true&locale=en&layout=compact" alt="ovi" />
-<img src="https://github-readme-stats.vercel.app/api?username=martari03&include_all_commits=true&count_private=true&show_icons=true&line_height=20" alt="my Github Stats"/>
-</div>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=martari03&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Marta's GitHub stats](https://github-readme-stats.vercel.app/api?username=martari03&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
 <br/>
 <div align="center" style="display: flex; justify-content: space-evenly; align-content: center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=martari03" alt="myStreak"/>
