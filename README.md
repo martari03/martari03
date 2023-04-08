@@ -87,5 +87,5 @@ complete all tasks assigned to me on time. I also study Korean in my spare time.
 </div>
 <br/>
 <div align="center" style="display: flex; justify-content: space-evenly; align-content: center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=martari03&hide_border=true&theme=transparent&date_format=Y.n.j" alt="myStreak"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=martari03&date_format=Y.n.j&theme=transparent&hide_border=true" alt="myStreak"/>
 </div>
