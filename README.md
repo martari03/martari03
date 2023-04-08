@@ -82,10 +82,10 @@ complete all tasks assigned to me on time. I also study Korean in my spare time.
 ## GitHub stats
 
 <div align="center" style="display: flex; justify-content: space-evenly; align-items: center; column-gap: 3vw">
-<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=martari03&layout=compact" alt="top langs"/></a>
-<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=martari03&show_icons=true&include_all_commits=true" alt="Marta's github stats"/></a> 
+<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=martari03&layout=compact&hide_border=true&bg_color=00000000&text_color=3498db" alt="top langs"/></a>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=martari03&show_icons=true&include_all_commits=true&hide_border=true&bg_color=00000000&text_color=3498db" alt="Marta's github stats"/></a> 
 </div>
 <br/>
 <div align="center" style="display: flex; justify-content: space-evenly; align-content: center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=martari03" alt="myStreak"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=martari03&hide_border=true&theme=transparent&date_format=Y.n.j" alt="myStreak"/>
 </div>
