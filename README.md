@@ -1,10 +1,10 @@
 # Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="hi">
 
-My name is Marta Rishniak. I am studying at the Lviv Polytechnic National University,
-majoring in Computer Science, and at the Okten School on the
-Mega Full Stack course. So I am a full stack web developer. I am optimistic, friendly, and communicative, which allows
-me to get along well with clients and colleagues. I am a speedy learner, diligent, focused, and goal-oriented, so I will
-complete all tasks assigned to me on time. I also study Korean in my spare time.
+My name is Marta Rishniak, and I specialize in full stack web development. Currently, I'm studying Computer Science at 
+Lviv Polytechnic National University while also taking the Mega Full Stack course at Okten School. As a person, I value 
+positivity and friendliness, which helps me build great relationships with my clients and colleagues. I'm also a quick 
+learner, dutiful, focused, and purpose-driven, ensuring that all tasks assigned to me are completed on time. In my free 
+time, I enjoy studying the Korean language. It's been a pleasure introducing myself to you!
 
 
 ## Socials
