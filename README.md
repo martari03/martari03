@@ -2,7 +2,7 @@
 
 My name is Marta Rishniak, and I specialize in full stack web development. Currently, I'm studying Computer Science at 
 Lviv Polytechnic National University while also taking the Mega Full Stack course at Okten School. As a person, I value 
-positivity and friendliness, which helps me build great relationships with my clients and colleagues. I'm also a quick 
+positivity and friendliness, which helps me build great relationships with people. I'm also a quick 
 learner, dutiful, focused, and purpose-driven, ensuring that all tasks assigned to me are completed on time. In my free 
 time, I enjoy studying the Korean language. It's been a pleasure introducing myself to you!
 
