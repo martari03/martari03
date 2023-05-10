@@ -1,13 +1,18 @@
 # Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="hi">
 
-My name is Marta Rishniak, and I specialize in full stack web development. Currently, I'm studying Computer Science at 
-Lviv Polytechnic National University while also taking the Mega Full Stack course at Okten School. As a person, I value 
-positivity and friendliness, which helps me build great relationships with people. I'm also a quick 
-learner, dutiful, focused, and purpose-driven, ensuring that all tasks assigned to me are completed on time. In my free 
-time, I enjoy studying the Korean language. It's been a pleasure introducing myself to you!
+My name is Marta Rishniak, and I am a Full Stack Web Developer. As a person, I prioritize positivity and friendliness in all
+my interactions. These qualities help me build strong relationships with people. I have a natural aptitude for learning,
+which enables me to quickly adapt to new technologies and stay ahead of the curve. My strong sense of duty, focus, and
+purpose ensures that I always deliver projects on time and to the highest standard. In my free time, I enjoy pursuing my
+passion for learning the Korean language, which helps me broaden my horizons and expand my cultural knowledge. I am
+committed to continuous growth and development, both as a person and as a professional. As I reflect on my career
+journey, I can't help but feel a sense of excitement for the opportunities that lie ahead. I'm eager to see where my
+skills and experiences will take me next. It's a great feeling to know that there is no limit to what I can achieve, and
+I'm ready to take on whatever challenges come my way. Here's to a bright future filled with growth and success! 
 
+It's been a pleasure introducing myself to you!
 
-## Socials
+## My socials
 
 <div style="display: flex; justify-content: space-evenly; align-items: center; height: 30px">
 <a href="https://www.instagram.com/_marta.ri_">
