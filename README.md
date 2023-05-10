@@ -62,12 +62,10 @@ time, I enjoy studying the Korean language. It's been a pleasure introducing mys
 
 ## Languages and Tools
 
-<code><img height="20" src="icons/C.png" alt="c"/></code>
-<code><img height="20" src="https://cdn4.iconfinder.com/data/icons/logos-brands-in-colors/404/c_logo-128.png" alt="c++"/></code>
 <code><img height="20" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/181_Java_logo_logos-128.png" alt="java"/></code>
 <code><img height="20" src="icons/JS.png" alt="js"/></code>
-<code><img height="20" src="icons/NodeJS.png" alt="NodeJS"/></code>
 <code><img height="20" src="icons/TS.png" alt="ts"/></code>
+<code><img height="20" src="icons/NodeJS.png" alt="NodeJS"/></code>
 <code><img height="20" src="icons/React.png" alt="React"/></code>
 <code><img height="20" src="icons/Redux.png" alt="Redux"/></code>
 <code><img height="20" src="icons/MongoDB.png" alt="MongoDB"/></code>
@@ -77,7 +75,6 @@ time, I enjoy studying the Korean language. It's been a pleasure introducing mys
 <code><img height="20" src="https://cdn3.iconfinder.com/data/icons/social-media-2169/24/social_media_social_media_logo_git-128.png" alt="Git"/></code>
 <code><img height="20" src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/71-github-128.png" alt="GitHub"/></code>
 <code><img height="20" src="icons/IntelliJ.png" alt="IntelliJ"/></code>
-<code><img height="20" src="icons/VisualStudio.png" alt="VisualStudio"/></code>
 
 ## GitHub stats
 
