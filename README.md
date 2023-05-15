@@ -3,14 +3,16 @@
 My name is Marta Rishniak, and I am a Full Stack Web Developer. As a person, I prioritize positivity and friendliness in all
 my interactions. These qualities help me build strong relationships with people. I have a natural aptitude for learning,
 which enables me to quickly adapt to new technologies and stay ahead of the curve. My strong sense of duty, focus, and
-purpose ensures that I always deliver projects on time and to the highest standard. In my free time, I enjoy pursuing my
+purpose ensures that I always deliver tasks on time and to the highest standard. In my free time, I enjoy pursuing my
 passion for learning the Korean language, which helps me broaden my horizons and expand my cultural knowledge. I am
 committed to continuous growth and development, both as a person and as a professional. As I reflect on my career
 journey, I can't help but feel a sense of excitement for the opportunities that lie ahead. I'm eager to see where my
 skills and experiences will take me next. It's a great feeling to know that there is no limit to what I can achieve, and
-I'm ready to take on whatever challenges come my way. Here's to a bright future filled with growth and success! 
+I'm ready to take on whatever challenges come my way.
 
-It's been a pleasure introducing myself to you!
+🌟🙌 It's been a pleasure introducing myself to you! 👋😄
+
+🤝✨ Here's to a bright future filled with growth and success! 📈💼
 
 ## My socials
 
