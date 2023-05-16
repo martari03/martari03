@@ -17,6 +17,9 @@ I'm ready to take on whatever challenges come my way.
 ## My socials
 
 <div style="display: flex; justify-content: space-evenly; align-items: center; height: 30px">
+<a href="https://www.linkedin.com/in/marta-rishnyak-b9197a212">
+  <img alt="Linkedin" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/circle-linkedin-128.png" width="23px"/>
+</a>
 <a href="https://www.instagram.com/_marta.ri_">
   <img alt="Instagram" src="https://cdn2.iconfinder.com/data/icons/social-icons-33/128/Instagram-128.png" width="23px"/>
 </a>
@@ -25,9 +28,6 @@ I'm ready to take on whatever challenges come my way.
 </a>
 <a href="https://twitter.com/rishniak_m">
 <img alt="Twitter" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Twitter_colored_svg-128.png" width="23px"/>
-</a>
-<a href="https://www.linkedin.com/in/marta-rishnyak-b9197a212">
-  <img alt="Linkedin" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/circle-linkedin-128.png" width="23px"/>
 </a>
 <a href="https://join.skype.com/invite/EPDGdSyhCi0M">
 <img alt="Skype" src="https://cdn3.iconfinder.com/data/icons/social-media-2169/24/social_media_social_media_logo_skype-128.png" width="23px"/>
