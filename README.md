@@ -24,7 +24,7 @@ I'm ready to take on whatever challenges come my way.
   <img alt="Instagram" src="https://cdn2.iconfinder.com/data/icons/social-icons-33/128/Instagram-128.png" width="23px"/>
 </a>
 <a href="https://www.threads.net/@_marta.ri_">
-  <img alt="Threads" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Threads_%28app%29_logo.svg/800px-Threads_%28app%29_logo.svg.png" width="23px"/>
+  <img alt="Threads" src="https://seeklogo.com/images/T/threads-logo-9F3F8228AC-seeklogo.com.png?v=638243212870000000" width="23px"/>
 </a>
 <a href="https://www.facebook.com/marta.rishnyak">
   <img alt="Facebook" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Facebook2_colored_svg-128.png" width="23px"/>
