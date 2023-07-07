@@ -53,6 +53,9 @@ I'm ready to take on whatever challenges come my way.
 <a href="https://discordapp.com/users/764082631708246046">
 <img alt="Discord" src="https://cdn3.iconfinder.com/data/icons/social-network-flat-3/100/Discord-128.png" width="23px"/>
 </a>
+<a href="https://www.twitch.tv/marta_ri_03">
+<img alt="Twitch" src="https://cdn2.iconfinder.com/data/icons/social-micon/512/twitch-256.png" width="23px"/>
+</a>
 <a href="https://www.tiktok.com/@martarishniak">
 <img alt="TikTok" src="https://cdn4.iconfinder.com/data/icons/social-media-flat-7/64/Social-media_Tiktok-128.png" width="23px"/>
 </a>
