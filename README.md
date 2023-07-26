@@ -14,7 +14,7 @@ I'm ready to take on whatever challenges come my way.
 
 🤝✨ Here's to a bright future filled with growth and success! 📈💼
 
-## My socials
+## Socials
 
 <div style="display: flex; justify-content: space-evenly; align-items: center; height: 30px">
 <a href="https://www.linkedin.com/in/marta-rishnyak-b9197a212">
