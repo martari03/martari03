@@ -47,9 +47,12 @@ I'm ready to take on whatever challenges come my way.
 <a href="https://api.whatsapp.com/send?phone=380971604558">
 <img alt="WhatsApp" src="https://cdn3.iconfinder.com/data/icons/2018-social-media-logotypes/1000/2018_social_media_popular_app_logo-whatsapp-128.png" width="23px"/>
 </a>
-<a href="#">
-  <img alt="Viber" src="https://cdn3.iconfinder.com/data/icons/social-media-2169/24/social_media_social_media_logo_viber-128.png" width="23px"/>
-</a>
+
+[//]: # (<a href="#">)
+
+[//]: # (  <img alt="Viber" src="https://cdn3.iconfinder.com/data/icons/social-media-2169/24/social_media_social_media_logo_viber-128.png" width="23px"/>)
+
+[//]: # (</a>)
 <a href="https://discordapp.com/users/764082631708246046">
 <img alt="Discord" src="https://cdn3.iconfinder.com/data/icons/social-network-flat-3/100/Discord-128.png" width="23px"/>
 </a>
