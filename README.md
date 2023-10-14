@@ -55,7 +55,7 @@ I'm ready to take on whatever challenges come my way.
 <img alt="Discord" src="https://cdn3.iconfinder.com/data/icons/social-network-flat-3/100/Discord-128.png" height="23px"/>
 </a>
 <a href="viber://chat?number=+380971694558">
-    <img alt="Viber" src="https://cdn3.iconfinder.com/data/icons/social-media-2169/24/social_media_social_media_logo_viber-128.png" height="23px"/>
+<img alt="Viber" src="https://cdn3.iconfinder.com/data/icons/social-media-2169/24/social_media_social_media_logo_viber-128.png" height="23px"/>
 </a>
 <a href="https://www.twitch.tv/marta_ri_03">
 <img alt="Twitch" src="https://cdn4.iconfinder.com/data/icons/logos-brands-7/512/twitch-128.png" height="23px"/>
