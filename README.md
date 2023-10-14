@@ -20,7 +20,6 @@ I'm ready to take on whatever challenges come my way.
 <a href="https://www.linkedin.com/in/marta-rishnyak-b9197a212">
   <img alt="Linkedin" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/circle-linkedin-128.png" height="23px"/>
 </a>
-
 <a href="https://www.upwork.com/freelancers/~01de25c3f5543a40b5">
   <img alt="Upwork" src="https://cdn2.iconfinder.com/data/icons/picons-social/57/79-upwork-2-512.png" height="23px"/>
 </a>
@@ -41,6 +40,9 @@ I'm ready to take on whatever challenges come my way.
 </a>
 <a href="mailto:rishyakmarta@gmail.com">
 <img alt="Gmail" src="https://cdn1.iconfinder.com/data/icons/google-new-logos-1/32/gmail_new_logo-128.png" height="23px"/>
+</a>
+<a href="viber:chat?number=+380971604558">
+<img alt="Viber" src="https://cdn3.iconfinder.com/data/icons/social-media-2169/24/social_media_social_media_logo_viber-128.png" height="23px"/>
 </a>
 <a href="https://t.me/marta_ri">
 <img alt="Telegram" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/335_Telegram_logo-512.png" height="23px"/>
@@ -71,9 +73,6 @@ I'm ready to take on whatever challenges come my way.
 </a>
 <a href="https://soundcloud.com/marta-rishnyak?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing">
 <img alt="Soundcloud" src="https://cdn2.iconfinder.com/data/icons/social-icons-33/128/Soundcloud-128.png" height="23px"/>
-</a>
-<a href="viber://chat?number=+380971604558">
-<img alt="Viber" src="https://cdn3.iconfinder.com/data/icons/social-media-2169/24/social_media_social_media_logo_viber-128.png" height="23px"/>
 </a>
 </div>
 
