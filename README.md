@@ -71,18 +71,18 @@ I'm ready to take on whatever challenges come my way.
 <a href="https://open.spotify.com/user/qfbsu4v757dap6w5aarcwva9h?si=aliEcTQPQ6-tulm7fzZu8Q&utm_source=copy-link" style="text-decoration: none">
 <img alt="Spotify" src="https://cdn2.iconfinder.com/data/icons/social-icons-33/128/Spotify-128.png" height="23px"/>
 </a>
-<a href="https://soundcloud.com/marta-rishnyak?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing" style="text-decoration: none">
+<a href="https://soundcloud.com/marta-rishnyak?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing" style="text-decoration: none;">
 <img alt="Soundcloud" src="https://cdn2.iconfinder.com/data/icons/social-icons-33/128/Soundcloud-128.png" height="23px"/>
 </a>
 </div>
 
 ## GitHub stats
 
-<div style="display: flex; align-content: center; justify-content: space-evenly; align-items: center; column-gap: 5vw; width: 100vw;">
-<a href="https://github.com/anuraghazra/github-readme-stats"><img style="align-content: center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=martari03&layout=compact&hide_border=true&bg_color=00000000&text_color=3498db" alt="top langs"/></a>
-<a href="https://github.com/anuraghazra/github-readme-stats"><img style="align-content: center" src="https://github-readme-stats.vercel.app/api?username=martari03&show_icons=true&include_all_commits=true&hide_border=true&bg_color=00000000&text_color=3498db" alt="My github stats"/></a> 
+<div style="display: flex; justify-content: space-evenly; align-items: center; column-gap: 5vw; width: 100vw;">
+<a href="https://github.com/anuraghazra/github-readme-stats"><img style="align-items: center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=martari03&layout=compact&hide_border=true&bg_color=00000000&text_color=3498db" alt="top langs"/></a>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img style="align-items: center" src="https://github-readme-stats.vercel.app/api?username=martari03&show_icons=true&include_all_commits=true&hide_border=true&bg_color=00000000&text_color=3498db" alt="My github stats"/></a> 
 </div>
 <br/>
-<div style="display: flex; align-content: center; justify-content: space-evenly; width: 100vw;">
+<div style="display: flex; align-items: center; justify-content: space-evenly; width: 100vw;">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=martari03&date_format=Y.n.j&theme=transparent&hide_border=true" alt="myStreak"/>
 </div>
