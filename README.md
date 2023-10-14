@@ -20,6 +20,10 @@ I'm ready to take on whatever challenges come my way.
 <a href="https://www.linkedin.com/in/marta-rishnyak-b9197a212">
   <img alt="Linkedin" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/circle-linkedin-128.png" width="23px"/>
 </a>
+
+<a href="https://www.upwork.com/freelancers/~01de25c3f5543a40b5">
+  <img alt="Upwork" src="https://cdn2.iconfinder.com/data/icons/picons-social/57/79-upwork-2-512.png" width="23px"/>
+</a>
 <a href="https://www.instagram.com/_marta.ri_">
   <img alt="Instagram" src="https://cdn2.iconfinder.com/data/icons/social-icons-33/128/Instagram-128.png" width="23px"/>
 </a>
