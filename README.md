@@ -48,15 +48,17 @@ I'm ready to take on whatever challenges come my way.
 <a href="https://m.me/marta.rishnyak">
 <img alt="Messenger" src="https://cdn4.iconfinder.com/data/icons/social-media-2285/1024/logo-512.png" height="23px"/>
 </a>
-
 <a href="https://api.whatsapp.com/send?phone=380971604558">
 <img alt="WhatsApp" src="https://cdn3.iconfinder.com/data/icons/2018-social-media-logotypes/1000/2018_social_media_popular_app_logo-whatsapp-128.png" height="23px"/>
 </a>
 <a href="https://discordapp.com/users/764082631708246046">
 <img alt="Discord" src="https://cdn3.iconfinder.com/data/icons/social-network-flat-3/100/Discord-128.png" height="23px"/>
 </a>
+<a href="viber://chat?number=+380971694558">
+    <img alt="Viber" src="https://cdn3.iconfinder.com/data/icons/social-media-2169/24/social_media_social_media_logo_viber-128.png" height="23px"/>
+</a>
 <a href="https://www.twitch.tv/marta_ri_03">
-<img alt="Twitch" src="https://cdn2.iconfinder.com/data/icons/social-micon/512/twitch-256.png" height="23px"/>
+<img alt="Twitch" src="https://cdn4.iconfinder.com/data/icons/logos-brands-7/512/twitch-128.png" height="23px"/>
 </a>
 <a href="https://www.tiktok.com/@martarishniak">
 <img alt="TikTok" src="https://cdn4.iconfinder.com/data/icons/social-media-flat-7/64/Social-media_Tiktok-128.png" height="23px"/>
@@ -75,18 +77,13 @@ I'm ready to take on whatever challenges come my way.
 </a>
 </div>
 
-[//]: # (<a href="#">)
-
-[//]: # (  <img alt="Viber" src="https://cdn3.iconfinder.com/data/icons/social-media-2169/24/social_media_social_media_logo_viber-128.png" width="23px"/>)
-
-[//]: # (</a>)
 ## GitHub stats
 
-<div align="center" style="display: flex; justify-content: space-evenly; align-items: center; column-gap: 3vw">
+<div align="center" style="display: flex; justify-content: space-evenly; align-items: center; column-gap: 5vw; width: 100vw;">
 <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=martari03&layout=compact&hide_border=true&bg_color=00000000&text_color=3498db" alt="top langs"/></a>
 <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=martari03&show_icons=true&include_all_commits=true&hide_border=true&bg_color=00000000&text_color=3498db" alt="My github stats"/></a> 
 </div>
 <br/>
-<div align="center" style="display: flex; justify-content: space-evenly; align-content: center">
+<div align="center" style="display: flex; justify-content: space-evenly; align-content: center; width: 100vw;">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=martari03&date_format=Y.n.j&theme=transparent&hide_border=true" alt="myStreak"/>
 </div>
