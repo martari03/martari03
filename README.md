@@ -14,7 +14,7 @@ I'm ready to take on whatever challenges come my way.
 
 🤝✨ Here's to a bright future filled with growth and success! 📈💼
 
-## My socials
+## Socials
 
 <div style="display: flex; justify-content: space-evenly; align-items: center; height: 30px">
 <a href="https://www.linkedin.com/in/marta-rishnyak-b9197a212">
@@ -22,6 +22,9 @@ I'm ready to take on whatever challenges come my way.
 </a>
 <a href="https://www.instagram.com/_marta.ri_">
   <img alt="Instagram" src="https://cdn2.iconfinder.com/data/icons/social-icons-33/128/Instagram-128.png" width="23px"/>
+</a>
+<a href="https://www.threads.net/@_marta.ri_">
+  <img alt="Threads" src="https://seeklogo.com/images/T/threads-logo-9F3F8228AC-seeklogo.com.png?v=638243212870000000" width="23px"/>
 </a>
 <a href="https://www.facebook.com/marta.rishnyak">
   <img alt="Facebook" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Facebook2_colored_svg-128.png" width="23px"/>
@@ -45,13 +48,11 @@ I'm ready to take on whatever challenges come my way.
 <img alt="WhatsApp" src="https://cdn3.iconfinder.com/data/icons/2018-social-media-logotypes/1000/2018_social_media_popular_app_logo-whatsapp-128.png" width="23px"/>
 </a>
 
-[//]: # (<a href="#">)
-
-[//]: # (  <img alt="Viber" src="https://cdn3.iconfinder.com/data/icons/social-media-2169/24/social_media_social_media_logo_viber-128.png" width="23px"/>)
-
-[//]: # (</a>)
 <a href="https://discordapp.com/users/764082631708246046">
 <img alt="Discord" src="https://cdn3.iconfinder.com/data/icons/social-network-flat-3/100/Discord-128.png" width="23px"/>
+</a>
+<a href="https://www.twitch.tv/marta_ri_03">
+<img alt="Twitch" src="https://cdn2.iconfinder.com/data/icons/social-micon/512/twitch-256.png" width="23px"/>
 </a>
 <a href="https://www.tiktok.com/@martarishniak">
 <img alt="TikTok" src="https://cdn4.iconfinder.com/data/icons/social-media-flat-7/64/Social-media_Tiktok-128.png" width="23px"/>
@@ -70,6 +71,11 @@ I'm ready to take on whatever challenges come my way.
 </a>
 </div>
 
+[//]: # (<a href="#">)
+
+[//]: # (  <img alt="Viber" src="https://cdn3.iconfinder.com/data/icons/social-media-2169/24/social_media_social_media_logo_viber-128.png" width="23px"/>)
+
+[//]: # (</a>)
 ## GitHub stats
 
 <div align="center" style="display: flex; justify-content: space-evenly; align-items: center; column-gap: 3vw">
