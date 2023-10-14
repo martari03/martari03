@@ -1,4 +1,4 @@
-# Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="hi">
+# Hey there 👋
 
 My name is Marta Rishniak, and I am a Full Stack Web Developer. As a person, I prioritize positivity and friendliness in all
 my interactions. These qualities help me build strong relationships with people. I have a natural aptitude for learning,
@@ -16,7 +16,7 @@ I'm ready to take on whatever challenges come my way.
 
 ## Socials
 
-<div style="display: flex; justify-content: space-evenly; align-items: center; height: 23px; column-gap: 10px; width: 100vw">
+<div style="text-decoration: none; background-color: transparent; display: flex; justify-content: space-evenly; align-items: center; height: 23px; column-gap: 10px; width: 100vw">
 <a style="text-decoration: none; background-color: transparent; color: transparent;" href="https://www.linkedin.com/in/marta-rishnyak-b9197a212">
   <img alt="Linkedin" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/circle-linkedin-128.png" height="23px"/>
 </a>
