@@ -17,58 +17,58 @@ I'm ready to take on whatever challenges come my way.
 ## Socials
 
 <div style="display: flex; justify-content: space-evenly; align-items: center; height: 23px; column-gap: 10px; width: 100vw">
-<a href="https://www.linkedin.com/in/marta-rishnyak-b9197a212" style="text-decoration: none">
+<a href="https://www.linkedin.com/in/marta-rishnyak-b9197a212" style="text-decoration: none;">
   <img alt="Linkedin" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/circle-linkedin-128.png" height="23px"/>
 </a>
-<a href="https://www.upwork.com/freelancers/~01de25c3f5543a40b5" style="text-decoration: none">
+<a href="https://www.upwork.com/freelancers/~01de25c3f5543a40b5" style="text-decoration: none;">
   <img alt="Upwork" src="https://cdn2.iconfinder.com/data/icons/picons-social/57/79-upwork-2-512.png" height="23px"/>
 </a>
-<a href="https://www.instagram.com/_marta.ri_" style="text-decoration: none">
+<a href="https://www.instagram.com/_marta.ri_" style="text-decoration: none;">
   <img alt="Instagram" src="https://cdn2.iconfinder.com/data/icons/social-icons-33/128/Instagram-128.png" height="23px"/>
 </a>
-<a href="https://www.threads.net/@_marta.ri_" style="text-decoration: none">
+<a href="https://www.threads.net/@_marta.ri_" style="text-decoration: none;">
   <img alt="Threads" src="https://cdn4.iconfinder.com/data/icons/threads-by-instagram/128/threads-logo-brand-sign-512.png" height="23px"/>
 </a>
-<a href="https://www.facebook.com/marta.rishnyak" style="text-decoration: none">
+<a href="https://www.facebook.com/marta.rishnyak" style="text-decoration: none;">
   <img alt="Facebook" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Facebook2_colored_svg-128.png" height="23px"/>
 </a>
-<a href="https://twitter.com/rishniak_m" style="text-decoration: none">
+<a href="https://twitter.com/rishniak_m" style="text-decoration: none;">
 <img alt="Twitter" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Twitter_colored_svg-128.png" height="23px"/>
 </a>
-<a href="https://join.skype.com/invite/EPDGdSyhCi0M" style="text-decoration: none">
+<a href="https://join.skype.com/invite/EPDGdSyhCi0M" style="text-decoration: none;">
 <img alt="Skype" src="https://cdn3.iconfinder.com/data/icons/social-media-2169/24/social_media_social_media_logo_skype-128.png" height="23px"/>
 </a>
-<a href="mailto:rishyakmarta@gmail.com" style="text-decoration: none">
+<a href="mailto:rishyakmarta@gmail.com" style="text-decoration: none;">
 <img alt="Gmail" src="https://cdn1.iconfinder.com/data/icons/google-new-logos-1/32/gmail_new_logo-128.png" height="23px"/>
 </a>
-<a href="https://tinyurl.com/9u8cxxru" style="text-decoration: none">
+<a href="https://tinyurl.com/9u8cxxru" style="text-decoration: none;">
 <img alt="Viber" src="https://cdn3.iconfinder.com/data/icons/social-media-2169/24/social_media_social_media_logo_viber-128.png" height="23px"/>
 </a>
-<a href="https://t.me/marta_ri" style="text-decoration: none">
+<a href="https://t.me/marta_ri" style="text-decoration: none;">
 <img alt="Telegram" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/335_Telegram_logo-512.png" height="23px"/>
 </a>
-<a href="https://m.me/marta.rishnyak" style="text-decoration: none">
+<a href="https://m.me/marta.rishnyak" style="text-decoration: none;">
 <img alt="Messenger" src="https://cdn4.iconfinder.com/data/icons/social-media-2285/1024/logo-512.png" height="23px"/>
 </a>
-<a href="https://api.whatsapp.com/send?phone=380971604558" style="text-decoration: none">
+<a href="https://api.whatsapp.com/send?phone=380971604558" style="text-decoration: none;">
 <img alt="WhatsApp" src="https://cdn3.iconfinder.com/data/icons/2018-social-media-logotypes/1000/2018_social_media_popular_app_logo-whatsapp-128.png" height="23px"/>
 </a>
-<a href="https://discordapp.com/users/764082631708246046" style="text-decoration: none">
+<a href="https://discordapp.com/users/764082631708246046" style="text-decoration: none;">
 <img alt="Discord" src="https://cdn3.iconfinder.com/data/icons/social-network-flat-3/100/Discord-128.png" height="23px"/>
 </a>
-<a href="https://www.twitch.tv/marta_ri_03" style="text-decoration: none">
+<a href="https://www.twitch.tv/marta_ri_03" style="text-decoration: none;">
 <img alt="Twitch" src="https://cdn4.iconfinder.com/data/icons/logos-brands-7/512/twitch-128.png" height="23px"/>
 </a>
-<a href="https://www.tiktok.com/@martarishniak" style="text-decoration: none">
+<a href="https://www.tiktok.com/@martarishniak" style="text-decoration: none;">
 <img alt="TikTok" src="https://cdn4.iconfinder.com/data/icons/social-media-flat-7/64/Social-media_Tiktok-128.png" height="23px"/>
 </a>
-<a href="https://story.snapchat.com/s/rishniakmarta" style="text-decoration: none">
+<a href="https://story.snapchat.com/s/rishniakmarta" style="text-decoration: none;">
 <img alt="Snapchat" src="https://cdn3.iconfinder.com/data/icons/2018-social-media-logotypes/1000/2018_social_media_popular_app_logo_snapchat-128.png" height="23px"/>
 </a>
-<a href="https://www.pinterest.com/marta_ri5217" style="text-decoration: none">
+<a href="https://www.pinterest.com/marta_ri5217" style="text-decoration: none;">
 <img alt="Pinterest" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Pinterest_colored_svg-128.png" height="23px"/>
 </a>
-<a href="https://open.spotify.com/user/qfbsu4v757dap6w5aarcwva9h?si=aliEcTQPQ6-tulm7fzZu8Q&utm_source=copy-link" style="text-decoration: none">
+<a href="https://open.spotify.com/user/qfbsu4v757dap6w5aarcwva9h?si=aliEcTQPQ6-tulm7fzZu8Q&utm_source=copy-link" style="text-decoration: none;">
 <img alt="Spotify" src="https://cdn2.iconfinder.com/data/icons/social-icons-33/128/Spotify-128.png" height="23px"/>
 </a>
 <a href="https://soundcloud.com/marta-rishnyak?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing" style="text-decoration: none;">
@@ -78,11 +78,11 @@ I'm ready to take on whatever challenges come my way.
 
 ## GitHub stats
 
-<div style="display: flex; justify-content: space-evenly; align-items: center; column-gap: 5vw; width: 100vw;">
-<a href="https://github.com/anuraghazra/github-readme-stats"><img style="align-items: center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=martari03&layout=compact&hide_border=true&bg_color=00000000&text_color=3498db" alt="top langs"/></a>
-<a href="https://github.com/anuraghazra/github-readme-stats"><img style="align-items: center" src="https://github-readme-stats.vercel.app/api?username=martari03&show_icons=true&include_all_commits=true&hide_border=true&bg_color=00000000&text_color=3498db" alt="My github stats"/></a> 
+<div align="center" style="display: flex; justify-content: space-evenly; align-items: center; column-gap: 5vw; width: 100vw;">
+<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=martari03&layout=compact&hide_border=true&bg_color=00000000&text_color=3498db" alt="top langs"/></a>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=martari03&show_icons=true&include_all_commits=true&hide_border=true&bg_color=00000000&text_color=3498db" alt="My github stats"/></a> 
 </div>
 <br/>
-<div style="display: flex; align-items: center; justify-content: space-evenly; width: 100vw;">
+<div align="center" style="display: flex; align-items: center; justify-content: space-evenly; width: 100vw;">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=martari03&date_format=Y.n.j&theme=transparent&hide_border=true" alt="myStreak"/>
 </div>
