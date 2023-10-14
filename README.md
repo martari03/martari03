@@ -41,7 +41,7 @@ I'm ready to take on whatever challenges come my way.
 <a href="mailto:rishyakmarta@gmail.com">
 <img alt="Gmail" src="https://cdn1.iconfinder.com/data/icons/google-new-logos-1/32/gmail_new_logo-128.png" height="23px"/>
 </a>
-<a href="viber:chat?number=+380971604558">
+<a href="https://tinyurl.com/9u8cxxru">
 <img alt="Viber" src="https://cdn3.iconfinder.com/data/icons/social-media-2169/24/social_media_social_media_logo_viber-128.png" height="23px"/>
 </a>
 <a href="https://t.me/marta_ri">
