@@ -16,7 +16,7 @@ I'm ready to take on whatever challenges come my way.
 
 ## Socials
 
-<div style="display: flex; justify-content: space-evenly; align-items: center; height: 23px; column-gap: 2px; width: 100vw">
+<div style="display: flex; justify-content: space-evenly; align-items: center; height: 23px; column-gap: 10px; width: 100vw">
 <a href="https://www.linkedin.com/in/marta-rishnyak-b9197a212">
   <img alt="Linkedin" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/circle-linkedin-128.png" height="23px"/>
 </a>
