@@ -62,7 +62,7 @@ I'm ready to take on whatever challenges come my way.
 <a style="text-decoration: none; background-color: transparent; color: transparent;" href="https://www.tiktok.com/@martarishniak">
 <img alt="TikTok" src="https://cdn4.iconfinder.com/data/icons/social-media-flat-7/64/Social-media_Tiktok-128.png" height="23px"/>
 </a>
-<a style="text-decoration: none; background-color: transparent; color: transparent;" href="https://www.snapchat.com/add/rishniakmarta?share_id=mVj-YNPMi8locale=en-US">
+<a style="text-decoration: none; background-color: transparent; color: transparent;" href="https://www.snapchat.com/add/rishniakmarta?share_id=mVj-kYNPMi8locale=en-US">
 <img alt="Snapchat" src="https://cdn3.iconfinder.com/data/icons/2018-social-media-logotypes/1000/2018_social_media_popular_app_logo_snapchat-128.png" height="23px"/>
 </a>
 <a style="text-decoration: none; background-color: transparent; color: transparent;" href="https://www.pinterest.com/marta_ri5217">
