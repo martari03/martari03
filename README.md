@@ -76,125 +76,232 @@ I'm ready to take on whatever challenges come my way.
 </a>
 </div>
 
-## Tech Stack 💻
+[//]: # (## Tech Stack 💻)
 
-<div style="display: flex; flex-wrap: wrap; justify-content: space-evenly; column-gap: 2vw;">
-  <div style="width: fit-content">
-    <h3>Frontend</h3>
-    <ul style="list-style: none">
-      <li>JavaScript</li>
-      <li>HTML</li>
-      <li>CSS</li>
-      <li>TypeScript</li>
-      <li>React</li>
-      <li>React Native</li>
-      <li>Angular</li>
-    </ul>
-  </div>
+[//]: # ()
+[//]: # (<div style="display: flex; flex-wrap: wrap; justify-content: space-evenly; column-gap: 2vw;">)
 
-  <div style="width: fit-content">
-    <h3>DevOps</h3>
-    <ul style="list-style: none">
-      <li>Docker</li>
-      <li>AWS EC2</li>
-      <li>AWS S3</li>
-      <li>Git</li>
-      <li>GitHub</li>
-    </ul>
-  </div>
+[//]: # (  <div style="width: fit-content">)
 
-  <div style="width: fit-content">
-    <h3>Data</h3>
-    <ul style="list-style: none">
-      <li>CRUD</li>
-      <li>SQL</li>
-      <li>MySQL</li>
-      <li>MongoDB</li>
-      <li>Mongoose ODM</li>
-      <li>TypeORM</li>
-    </ul>
-  </div>
+[//]: # (    <h3>Frontend</h3>)
 
-  <div style="width: fit-content">
-    <h3>API Documentation</h3>
-    <ul style="list-style: none">
-      <li>Swagger</li>
-    </ul>
-  </div>
+[//]: # (    <ul style="list-style: none">)
 
-  <div style="width: fit-content">
-    <h3>Security</h3>
-    <ul style="list-style: none">
-      <li>Bcrypt</li>
-      <li>JSON Web Token</li>
-    </ul>
-  </div>
+[//]: # (      <li>JavaScript</li>)
 
-  <div style="width: fit-content">
-    <h3>Email and SMS Services</h3>
-    <ul style="list-style: none">
-      <li>Nodemailer</li>
-      <li>Twilio</li>
-    </ul>
-  </div>
+[//]: # (      <li>HTML</li>)
 
-  <div style="width: fit-content">
-    <h3>Scheduled tasks</h3>
-    <ul style="list-style: none">
-      <li>Cron jobs</li>
-    </ul>
-  </div>
+[//]: # (      <li>CSS</li>)
 
-  <div style="width: fit-content">
-    <h3>Real-time communication</h3>
-    <ul style="list-style: none">
-      <li>Socket.io</li>
-    </ul>
-  </div>
+[//]: # (      <li>TypeScript</li>)
 
-  <div style="width: fit-content">
-    <h3>Testing</h3>
-    <ul style="list-style: none">
-      <li>Quality Assurance/Quality Control</li>
-    </ul>
-  </div>
+[//]: # (      <li>React</li>)
 
-  <div style="width: fit-content">
-    <h3>Backend</h3>
-    <ul style="list-style: none">
-      <li>REST Services</li>
-      <li>GraphQL</li>
-      <li><b>JavaScript</b>
-        <ul style="list-style: none">
-            <li>Node.js</li>
-            <li>Express.js</li>
-            <li>NestJS</li>
-        </ul>
-      </li>
-      <li><b>Python</b>
-        <ul style="list-style: none">
-            <li>Python Core</li>
-            <li>Python Django Rest Framework</li>
-        </ul>
-      </li>
-      <li><b>Java</b>
-        <ul style="list-style: none">
-            <li>Java Core</li>
-            <li>JDBC</li>
-            <li>Java Persistence API</li>
-            <li>Hibernate</li>
-            <li>Spring Framework</li>
-        </ul>
-      </li>
-    </ul>
-  </div>
-</div>
+[//]: # (      <li>React Native</li>)
 
-<style>
-  ul li:before {
-    content: "⭐ ";
-  }
-</style>
+[//]: # (      <li>Angular</li>)
+
+[//]: # (    </ul>)
+
+[//]: # (  </div>)
+
+[//]: # ()
+[//]: # (  <div style="width: fit-content">)
+
+[//]: # (    <h3>DevOps</h3>)
+
+[//]: # (    <ul style="list-style: none">)
+
+[//]: # (      <li>Docker</li>)
+
+[//]: # (      <li>AWS EC2</li>)
+
+[//]: # (      <li>AWS S3</li>)
+
+[//]: # (      <li>Git</li>)
+
+[//]: # (      <li>GitHub</li>)
+
+[//]: # (    </ul>)
+
+[//]: # (  </div>)
+
+[//]: # ()
+[//]: # (  <div style="width: fit-content">)
+
+[//]: # (    <h3>Data</h3>)
+
+[//]: # (    <ul style="list-style: none">)
+
+[//]: # (      <li>CRUD</li>)
+
+[//]: # (      <li>SQL</li>)
+
+[//]: # (      <li>MySQL</li>)
+
+[//]: # (      <li>MongoDB</li>)
+
+[//]: # (      <li>Mongoose ODM</li>)
+
+[//]: # (      <li>TypeORM</li>)
+
+[//]: # (    </ul>)
+
+[//]: # (  </div>)
+
+[//]: # ()
+[//]: # (  <div style="width: fit-content">)
+
+[//]: # (    <h3>API Documentation</h3>)
+
+[//]: # (    <ul style="list-style: none">)
+
+[//]: # (      <li>Swagger</li>)
+
+[//]: # (    </ul>)
+
+[//]: # (  </div>)
+
+[//]: # ()
+[//]: # (  <div style="width: fit-content">)
+
+[//]: # (    <h3>Security</h3>)
+
+[//]: # (    <ul style="list-style: none">)
+
+[//]: # (      <li>Bcrypt</li>)
+
+[//]: # (      <li>JSON Web Token</li>)
+
+[//]: # (    </ul>)
+
+[//]: # (  </div>)
+
+[//]: # ()
+[//]: # (  <div style="width: fit-content">)
+
+[//]: # (    <h3>Email and SMS Services</h3>)
+
+[//]: # (    <ul style="list-style: none">)
+
+[//]: # (      <li>Nodemailer</li>)
+
+[//]: # (      <li>Twilio</li>)
+
+[//]: # (    </ul>)
+
+[//]: # (  </div>)
+
+[//]: # ()
+[//]: # (  <div style="width: fit-content">)
+
+[//]: # (    <h3>Scheduled tasks</h3>)
+
+[//]: # (    <ul style="list-style: none">)
+
+[//]: # (      <li>Cron jobs</li>)
+
+[//]: # (    </ul>)
+
+[//]: # (  </div>)
+
+[//]: # ()
+[//]: # (  <div style="width: fit-content">)
+
+[//]: # (    <h3>Real-time communication</h3>)
+
+[//]: # (    <ul style="list-style: none">)
+
+[//]: # (      <li>Socket.io</li>)
+
+[//]: # (    </ul>)
+
+[//]: # (  </div>)
+
+[//]: # ()
+[//]: # (  <div style="width: fit-content">)
+
+[//]: # (    <h3>Testing</h3>)
+
+[//]: # (    <ul style="list-style: none">)
+
+[//]: # (      <li>Quality Assurance/Quality Control</li>)
+
+[//]: # (    </ul>)
+
+[//]: # (  </div>)
+
+[//]: # ()
+[//]: # (  <div style="width: fit-content">)
+
+[//]: # (    <h3>Backend</h3>)
+
+[//]: # (    <ul style="list-style: none">)
+
+[//]: # (      <li>REST Services</li>)
+
+[//]: # (      <li>GraphQL</li>)
+
+[//]: # (      <li><b>JavaScript</b>)
+
+[//]: # (        <ul style="list-style: none">)
+
+[//]: # (            <li>Node.js</li>)
+
+[//]: # (            <li>Express.js</li>)
+
+[//]: # (            <li>NestJS</li>)
+
+[//]: # (        </ul>)
+
+[//]: # (      </li>)
+
+[//]: # (      <li><b>Python</b>)
+
+[//]: # (        <ul style="list-style: none">)
+
+[//]: # (            <li>Python Core</li>)
+
+[//]: # (            <li>Python Django Rest Framework</li>)
+
+[//]: # (        </ul>)
+
+[//]: # (      </li>)
+
+[//]: # (      <li><b>Java</b>)
+
+[//]: # (        <ul style="list-style: none">)
+
+[//]: # (            <li>Java Core</li>)
+
+[//]: # (            <li>JDBC</li>)
+
+[//]: # (            <li>Java Persistence API</li>)
+
+[//]: # (            <li>Hibernate</li>)
+
+[//]: # (            <li>Spring Framework</li>)
+
+[//]: # (        </ul>)
+
+[//]: # (      </li>)
+
+[//]: # (    </ul>)
+
+[//]: # (  </div>)
+
+[//]: # (</div>)
+
+[//]: # ()
+[//]: # (<style>)
+
+[//]: # (  ul li:before {)
+
+[//]: # (    content: "⭐ ";)
+
+[//]: # (  })
+
+[//]: # (</style>)
 
 ## GitHub stats
 
