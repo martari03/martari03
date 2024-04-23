@@ -78,7 +78,7 @@ I'm ready to take on whatever challenges come my way.
 
 ## Tech Stack 💻
 
-<div class="skills">
+<div style="display: flex; flex-wrap: wrap; justify-content: space-evenly; column-gap: 2vw;">
   <div class="category">
     <h3>Frontend</h3>
     <ul>
@@ -191,13 +191,6 @@ I'm ready to take on whatever challenges come my way.
 </div>
 
 <style>
-  .skills {
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: space-evenly;
-    column-gap: 2vw;
-  }
-
   .category {
     width: fit-content;
   }
