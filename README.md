@@ -79,9 +79,9 @@ I'm ready to take on whatever challenges come my way.
 ## Tech Stack 💻
 
 <div style="display: flex; flex-wrap: wrap; justify-content: space-evenly; column-gap: 2vw;">
-  <div class="category">
+  <div style="width: fit-content">
     <h3>Frontend</h3>
-    <ul>
+    <ul style="list-style: none">
       <li>JavaScript</li>
       <li>HTML</li>
       <li>CSS</li>
@@ -92,9 +92,9 @@ I'm ready to take on whatever challenges come my way.
     </ul>
   </div>
 
-  <div class="category">
+  <div style="width: fit-content">
     <h3>DevOps</h3>
-    <ul>
+    <ul style="list-style: none">
       <li>Docker</li>
       <li>AWS EC2</li>
       <li>AWS S3</li>
@@ -103,9 +103,9 @@ I'm ready to take on whatever challenges come my way.
     </ul>
   </div>
 
-  <div class="category">
+  <div style="width: fit-content">
     <h3>Data</h3>
-    <ul>
+    <ul style="list-style: none">
       <li>CRUD</li>
       <li>SQL</li>
       <li>MySQL</li>
@@ -115,26 +115,70 @@ I'm ready to take on whatever challenges come my way.
     </ul>
   </div>
 
-  <div class="category">
+  <div style="width: fit-content">
+    <h3>API Documentation</h3>
+    <ul style="list-style: none">
+      <li>Swagger</li>
+    </ul>
+  </div>
+
+  <div style="width: fit-content">
+    <h3>Security</h3>
+    <ul style="list-style: none">
+      <li>Bcrypt</li>
+      <li>JSON Web Token</li>
+    </ul>
+  </div>
+
+  <div style="width: fit-content">
+    <h3>Email and SMS Services</h3>
+    <ul style="list-style: none">
+      <li>Nodemailer</li>
+      <li>Twilio</li>
+    </ul>
+  </div>
+
+  <div style="width: fit-content">
+    <h3>Scheduled tasks</h3>
+    <ul style="list-style: none">
+      <li>Cron jobs</li>
+    </ul>
+  </div>
+
+  <div style="width: fit-content">
+    <h3>Real-time communication</h3>
+    <ul style="list-style: none">
+      <li>Socket.io</li>
+    </ul>
+  </div>
+
+  <div style="width: fit-content">
+    <h3>Testing</h3>
+    <ul style="list-style: none">
+      <li>Quality Assurance/Quality Control</li>
+    </ul>
+  </div>
+
+  <div style="width: fit-content">
     <h3>Backend</h3>
-    <ul>
+    <ul style="list-style: none">
       <li>REST Services</li>
       <li>GraphQL</li>
       <li><b>JavaScript</b>
-        <ul>
+        <ul style="list-style: none">
             <li>Node.js</li>
             <li>Express.js</li>
             <li>NestJS</li>
         </ul>
       </li>
       <li><b>Python</b>
-        <ul>
+        <ul style="list-style: none">
             <li>Python Core</li>
             <li>Python Django Rest Framework</li>
         </ul>
       </li>
       <li><b>Java</b>
-        <ul>
+        <ul style="list-style: none">
             <li>Java Core</li>
             <li>JDBC</li>
             <li>Java Persistence API</li>
@@ -144,61 +188,9 @@ I'm ready to take on whatever challenges come my way.
       </li>
     </ul>
   </div>
-
-  <div class="category">
-    <h3>API Documentation</h3>
-    <ul>
-      <li>Swagger</li>
-    </ul>
-  </div>
-
-  <div class="category">
-    <h3>Security</h3>
-    <ul>
-      <li>Bcrypt</li>
-      <li>JSON Web Token</li>
-    </ul>
-  </div>
-
-  <div class="category">
-    <h3>Email and SMS Services</h3>
-    <ul>
-      <li>Nodemailer</li>
-      <li>Twilio</li>
-    </ul>
-  </div>
-
-  <div class="category">
-    <h3>Scheduled tasks</h3>
-    <ul>
-      <li>Cron jobs</li>
-    </ul>
-  </div>
-
-  <div class="category">
-    <h3>Real-time communication</h3>
-    <ul>
-      <li>Socket.io</li>
-    </ul>
-  </div>
-
-  <div class="category">
-    <h3>Testing</h3>
-    <ul>
-      <li>Quality Assurance/Quality Control</li>
-    </ul>
-  </div>
 </div>
 
 <style>
-  .category {
-    width: fit-content;
-  }
-
-  ul {
-    list-style: none;
-  }
-
   ul li:before {
     content: "⭐ ";
   }
