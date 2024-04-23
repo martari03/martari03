@@ -14,7 +14,7 @@ I'm ready to take on whatever challenges come my way.
 
 🤝✨ Here's to a bright future filled with growth and success! 📈💼
 
-## Socials
+## Connect with me 🤗
 
 <div style="text-decoration: none; background-color: transparent; display: flex; justify-content: space-evenly; align-items: center; height: 23px; column-gap: 10px; width: 100vw">
 <a style="text-decoration: none; background-color: transparent; color: transparent;" href="https://www.linkedin.com/in/marta-rishnyak-b9197a212">
@@ -76,13 +76,148 @@ I'm ready to take on whatever challenges come my way.
 </a>
 </div>
 
+## Tech Stack 💻
+
+<div class="skills">
+  <div class="category">
+    <h3>Frontend</h3>
+    <ul>
+      <li>JavaScript</li>
+      <li>HTML</li>
+      <li>CSS</li>
+      <li>TypeScript</li>
+      <li>React</li>
+      <li>React Native</li>
+      <li>Angular</li>
+    </ul>
+  </div>
+
+  <div class="category">
+    <h3>DevOps</h3>
+    <ul>
+      <li>Docker</li>
+      <li>AWS EC2</li>
+      <li>AWS S3</li>
+      <li>Git</li>
+      <li>GitHub</li>
+    </ul>
+  </div>
+
+  <div class="category">
+    <h3>Data</h3>
+    <ul>
+      <li>CRUD</li>
+      <li>SQL</li>
+      <li>MySQL</li>
+      <li>MongoDB</li>
+      <li>Mongoose ODM</li>
+      <li>TypeORM</li>
+    </ul>
+  </div>
+
+  <div class="category">
+    <h3>Backend</h3>
+    <ul>
+      <li>REST Services</li>
+      <li>GraphQL</li>
+      <li><b>JavaScript</b>
+        <ul>
+            <li>Node.js</li>
+            <li>Express.js</li>
+            <li>NestJS</li>
+        </ul>
+      </li>
+      <li><b>Python</b>
+        <ul>
+            <li>Python Core</li>
+            <li>Python Django Rest Framework</li>
+        </ul>
+      </li>
+      <li><b>Java</b>
+        <ul>
+            <li>Java Core</li>
+            <li>JDBC</li>
+            <li>Java Persistence API</li>
+            <li>Hibernate</li>
+            <li>Spring Framework</li>
+        </ul>
+      </li>
+    </ul>
+  </div>
+
+  <div class="category">
+    <h3>API Documentation</h3>
+    <ul>
+      <li>Swagger</li>
+    </ul>
+  </div>
+
+  <div class="category">
+    <h3>Security</h3>
+    <ul>
+      <li>Bcrypt</li>
+      <li>JSON Web Token</li>
+    </ul>
+  </div>
+
+  <div class="category">
+    <h3>Email and SMS Services</h3>
+    <ul>
+      <li>Nodemailer</li>
+      <li>Twilio</li>
+    </ul>
+  </div>
+
+  <div class="category">
+    <h3>Scheduled tasks</h3>
+    <ul>
+      <li>Cron jobs</li>
+    </ul>
+  </div>
+
+  <div class="category">
+    <h3>Real-time communication</h3>
+    <ul>
+      <li>Socket.io</li>
+    </ul>
+  </div>
+
+  <div class="category">
+    <h3>Testing</h3>
+    <ul>
+      <li>Quality Assurance/Quality Control</li>
+    </ul>
+  </div>
+</div>
+
+<style>
+  .skills {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    column-gap: 2vw;
+  }
+
+  .category {
+    width: fit-content;
+  }
+
+  ul {
+    list-style: none;
+  }
+
+  ul li:before {
+    content: "⭐ ";
+  }
+</style>
+
 ## GitHub stats
 
-<div align="center" style="display: flex; justify-content: space-evenly; align-items: center; column-gap: 5vw; width: 100vw;">
-<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=martari03&layout=compact&hide_border=true&bg_color=00000000&text_color=3498db" alt="top langs"/></a>
-<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=martari03&show_icons=true&include_all_commits=true&hide_border=true&bg_color=00000000&text_color=3498db" alt="My github stats"/></a> 
+<div style="text-align: center; display: flex; justify-content: space-evenly; align-items: center; column-gap: 5vw; width: 100vw;">
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img style="display: block; margin: 0 auto;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=martari03&layout=compact&hide_border=true&bg_color=00000000&text_color=3498db" alt="top langs"/></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img style="display: block; margin: 0 auto;" src="https://github-readme-stats.vercel.app/api?username=martari03&show_icons=true&include_all_commits=true&hide_border=true&bg_color=00000000&text_color=3498db" alt="My github stats"/></a> 
 </div>
 <br/>
-<div align="center" style="display: flex; align-items: center; justify-content: space-evenly; width: 100vw;">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=martari03&date_format=Y.n.j&theme=transparent&hide_border=true" alt="myStreak"/>
+<div style="text-align: center; display: flex; align-items: center; justify-content: space-evenly; width: 100vw;">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=martari03&date_format=Y.n.j&theme=transparent&hide_border=true" alt="myStreak"/>
 </div>
