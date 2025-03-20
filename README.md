@@ -35,9 +35,6 @@ I'm ready to take on whatever challenges come my way.
 <a style="text-decoration: none; background-color: transparent; color: transparent;" href="https://twitter.com/rishniak_m">
 <img alt="Twitter" src="https://cdn4.iconfinder.com/data/icons/social-media-black-white-2/1227/X-512.png" height="21px"/>
 </a>
-<a style="text-decoration: none; background-color: transparent; color: transparent;" href="https://join.skype.com/invite/EPDGdSyhCi0M">
-<img alt="Skype" src="https://cdn3.iconfinder.com/data/icons/social-media-2169/24/social_media_social_media_logo_skype-128.png" height="23px"/>
-</a>
 <a style="text-decoration: none; background-color: transparent; color: transparent;" href="mailto:rishyakmarta@gmail.com">
 <img alt="Gmail" src="https://cdn1.iconfinder.com/data/icons/google-new-logos-1/32/gmail_new_logo-128.png" height="23px"/>
 </a>
